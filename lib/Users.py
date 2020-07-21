@@ -41,7 +41,7 @@ def registerUser(db, form, ROUNDS):
 		print(username)
 		print(password)
 
-		#master_secret_key = getpass('tell me the master secret key you are going to use')
+		#main_secret_key = getpass('tell me the main secret key you are going to use')
 		#salt = bcrypt.gensalt()
 		#combo_password = password + salt
 		#hashed_password = bcrypt.hashpw(combo_password, salt)
